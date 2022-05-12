@@ -1,0 +1,10 @@
+C:\CBM\Reference\netcoreapp3.1\Recipe.NetCore.deps.json
+C:\CBM\Reference\netcoreapp3.1\Recipe.NetCore.dll
+C:\CBM\Reference\netcoreapp3.1\Recipe.NetCore.pdb
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp3.1\Recipe.NetCore.csproj.AssemblyReference.cache
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp3.1\Recipe.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp3.1\Recipe.NetCore.AssemblyInfoInputs.cache
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp3.1\Recipe.NetCore.AssemblyInfo.cs
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp3.1\Recipe.NetCore.csproj.CoreCompileInputs.cache
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp3.1\Recipe.NetCore.dll
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp3.1\Recipe.NetCore.pdb

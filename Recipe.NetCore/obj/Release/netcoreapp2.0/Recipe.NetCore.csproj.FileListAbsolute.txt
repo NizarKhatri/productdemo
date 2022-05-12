@@ -1,0 +1,9 @@
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\bin\Release\netcoreapp2.0\Recipe.NetCore.deps.json
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\bin\Release\netcoreapp2.0\Recipe.NetCore.dll
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\bin\Release\netcoreapp2.0\Recipe.NetCore.pdb
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Release\netcoreapp2.0\Recipe.NetCore.csprojAssemblyReference.cache
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Release\netcoreapp2.0\Recipe.NetCore.csproj.CoreCompileInputs.cache
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Release\netcoreapp2.0\Recipe.NetCore.AssemblyInfoInputs.cache
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Release\netcoreapp2.0\Recipe.NetCore.AssemblyInfo.cs
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Release\netcoreapp2.0\Recipe.NetCore.dll
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Release\netcoreapp2.0\Recipe.NetCore.pdb

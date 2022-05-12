@@ -1,0 +1,15 @@
+D:\Projects\local\Product\Product.Repository\bin\Debug\netcoreapp3.1\Product.Repository.deps.json
+D:\Projects\local\Product\Product.Repository\bin\Debug\netcoreapp3.1\Product.Repository.dll
+D:\Projects\local\Product\Product.Repository\bin\Debug\netcoreapp3.1\Product.Repository.pdb
+D:\Projects\local\Product\Product.Repository\bin\Debug\netcoreapp3.1\Product.Core.dll
+D:\Projects\local\Product\Product.Repository\bin\Debug\netcoreapp3.1\Recipe.NetCore.dll
+D:\Projects\local\Product\Product.Repository\bin\Debug\netcoreapp3.1\Product.Core.pdb
+D:\Projects\local\Product\Product.Repository\bin\Debug\netcoreapp3.1\Recipe.NetCore.pdb
+D:\Projects\local\Product\Product.Repository\obj\Debug\netcoreapp3.1\Product.Repository.csproj.AssemblyReference.cache
+D:\Projects\local\Product\Product.Repository\obj\Debug\netcoreapp3.1\Product.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\local\Product\Product.Repository\obj\Debug\netcoreapp3.1\Product.Repository.AssemblyInfoInputs.cache
+D:\Projects\local\Product\Product.Repository\obj\Debug\netcoreapp3.1\Product.Repository.AssemblyInfo.cs
+D:\Projects\local\Product\Product.Repository\obj\Debug\netcoreapp3.1\Product.Repository.csproj.CoreCompileInputs.cache
+D:\Projects\local\Product\Product.Repository\obj\Debug\netcoreapp3.1\Product.Repository.csproj.CopyComplete
+D:\Projects\local\Product\Product.Repository\obj\Debug\netcoreapp3.1\Product.Repository.dll
+D:\Projects\local\Product\Product.Repository\obj\Debug\netcoreapp3.1\Product.Repository.pdb

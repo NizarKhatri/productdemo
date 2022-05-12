@@ -1,0 +1,15 @@
+D:\Projects\local\Product\Product.Service\bin\Debug\netcoreapp3.1\Product.Service.deps.json
+D:\Projects\local\Product\Product.Service\bin\Debug\netcoreapp3.1\Product.Service.dll
+D:\Projects\local\Product\Product.Service\bin\Debug\netcoreapp3.1\Product.Service.pdb
+D:\Projects\local\Product\Product.Service\bin\Debug\netcoreapp3.1\Product.Core.dll
+D:\Projects\local\Product\Product.Service\bin\Debug\netcoreapp3.1\Recipe.NetCore.dll
+D:\Projects\local\Product\Product.Service\bin\Debug\netcoreapp3.1\Product.Core.pdb
+D:\Projects\local\Product\Product.Service\bin\Debug\netcoreapp3.1\Recipe.NetCore.pdb
+D:\Projects\local\Product\Product.Service\obj\Debug\netcoreapp3.1\Product.Service.csproj.AssemblyReference.cache
+D:\Projects\local\Product\Product.Service\obj\Debug\netcoreapp3.1\Product.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\local\Product\Product.Service\obj\Debug\netcoreapp3.1\Product.Service.AssemblyInfoInputs.cache
+D:\Projects\local\Product\Product.Service\obj\Debug\netcoreapp3.1\Product.Service.AssemblyInfo.cs
+D:\Projects\local\Product\Product.Service\obj\Debug\netcoreapp3.1\Product.Service.csproj.CoreCompileInputs.cache
+D:\Projects\local\Product\Product.Service\obj\Debug\netcoreapp3.1\Product.Service.csproj.CopyComplete
+D:\Projects\local\Product\Product.Service\obj\Debug\netcoreapp3.1\Product.Service.dll
+D:\Projects\local\Product\Product.Service\obj\Debug\netcoreapp3.1\Product.Service.pdb

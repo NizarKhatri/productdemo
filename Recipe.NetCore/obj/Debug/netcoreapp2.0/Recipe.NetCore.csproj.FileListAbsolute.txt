@@ -1,0 +1,22 @@
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.csproj.CoreCompileInputs.cache
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfoInputs.cache
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfo.cs
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.dll
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.pdb
+D:\Mustafa Gaziani\Projects\Thomson Reuters\CBM\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.csprojAssemblyReference.cache
+D:\Projects\local\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\local\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfoInputs.cache
+D:\Projects\local\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfo.cs
+D:\Projects\local\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.csproj.CoreCompileInputs.cache
+D:\Projects\local\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.dll
+D:\Projects\local\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.pdb
+D:\Projects\local\CBM_Blotter_Backend\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.csproj.AssemblyReference.cache
+C:\CBM\Reference\netcoreapp2.0\Recipe.NetCore.deps.json
+C:\CBM\Reference\netcoreapp2.0\Recipe.NetCore.dll
+C:\CBM\Reference\netcoreapp2.0\Recipe.NetCore.pdb
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfoInputs.cache
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfo.cs
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.csproj.CoreCompileInputs.cache
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.dll
+D:\Projects\local\Product\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.pdb

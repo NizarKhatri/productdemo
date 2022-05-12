@@ -1,0 +1,16 @@
+D:\Projects\local\Product\Product.Core\bin\Debug\netcoreapp3.1\Product.Core.deps.json
+D:\Projects\local\Product\Product.Core\bin\Debug\netcoreapp3.1\Product.Core.runtimeconfig.json
+D:\Projects\local\Product\Product.Core\bin\Debug\netcoreapp3.1\Product.Core.runtimeconfig.dev.json
+D:\Projects\local\Product\Product.Core\bin\Debug\netcoreapp3.1\Product.Core.dll
+D:\Projects\local\Product\Product.Core\bin\Debug\netcoreapp3.1\Product.Core.pdb
+D:\Projects\local\Product\Product.Core\bin\Debug\netcoreapp3.1\Recipe.NetCore.dll
+D:\Projects\local\Product\Product.Core\bin\Debug\netcoreapp3.1\Recipe.NetCore.pdb
+D:\Projects\local\Product\Product.Core\obj\Debug\netcoreapp3.1\Product.Core.csproj.AssemblyReference.cache
+D:\Projects\local\Product\Product.Core\obj\Debug\netcoreapp3.1\Product.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\local\Product\Product.Core\obj\Debug\netcoreapp3.1\Product.Core.AssemblyInfoInputs.cache
+D:\Projects\local\Product\Product.Core\obj\Debug\netcoreapp3.1\Product.Core.AssemblyInfo.cs
+D:\Projects\local\Product\Product.Core\obj\Debug\netcoreapp3.1\Product.Core.csproj.CoreCompileInputs.cache
+D:\Projects\local\Product\Product.Core\obj\Debug\netcoreapp3.1\Product.Core.csproj.CopyComplete
+D:\Projects\local\Product\Product.Core\obj\Debug\netcoreapp3.1\Product.Core.dll
+D:\Projects\local\Product\Product.Core\obj\Debug\netcoreapp3.1\Product.Core.pdb
+D:\Projects\local\Product\Product.Core\obj\Debug\netcoreapp3.1\Product.Core.genruntimeconfig.cache
